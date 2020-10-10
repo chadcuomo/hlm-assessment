@@ -150,7 +150,7 @@ p {
 .hero-container {
     width: 100%;
     min-height: 582px;
-    background-image: url("/header.jpg");
+    background-image: url("header.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
@@ -342,7 +342,7 @@ p {
 .testimonial-section-container {
     width: 100%;
     min-height: 688px;
-    background-image: url("/testimonial.jpg");
+    background-image: url("testimonial.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
@@ -430,7 +430,7 @@ p {
 .contact-container {
     width: 100%;
     min-height: 788px;
-    background-image: url("/lead-form.jpg");
+    background-image: url("lead-form.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
@@ -491,7 +491,7 @@ p {
 }
 
 .contact-form-container {
-    background-image: url("/form.jpg");
+    background-image: url("form.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     width: 48%;
